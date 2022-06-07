@@ -5,6 +5,7 @@ public class Identique {
     private String prenom;
     private String pasnom;
     private int x;
+
     
 
 }
